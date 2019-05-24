@@ -1,0 +1,3 @@
+/Users/angelinux/CLionProjects/union-find-angelmotta/unionFind/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/angelinux/CLionProjects/union-find-angelmotta/unionFind/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/angelinux/CLionProjects/union-find-angelmotta/unionFind/cmake-build-debug/CMakeFiles/unionFind.dir
